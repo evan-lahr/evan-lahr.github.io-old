@@ -14,17 +14,17 @@ lang: en
 
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:
+timezone: America/Seattle
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Test                          # the main title
+title: mud on the move                     # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: ocean geo research  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  research website of Evan Lahr
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ''
@@ -33,17 +33,17 @@ github:
   username: evan-lahr             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: none            # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Evan Lahr
-  email: example@domain.com             # change to your email address
+  email: elahr@uw.edu             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://github.com/evan-lahr    # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -81,8 +81,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
-
+avatar: https://raw.githubusercontent.com/evan-lahr/evan-lahr.github.io/main/assets/prof_pic_square.jpeg
 # boolean type, the global switch for ToC in posts.
 toc: true
 
