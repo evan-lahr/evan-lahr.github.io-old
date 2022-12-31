@@ -9,6 +9,6 @@ I am a PhD student at the University of Washington Seattle in the [School of Oce
 This website is intended to function as a set of notes for myself and others. I hope you find what you're looking for.
 
 
-<img src="https://raw.githubusercontent.com/evan-lahr/photos/main/Screen%20Shot%202022-11-28%20at%2010.32.07%20AM.png" style="height: 440px; width:600px;"/>
+<img src="https://raw.githubusercontent.com/evan-lahr/photos/main/Screen%20Shot%202022-11-28%20at%2010.32.07%20AM.png" style="height: 460px; width:600px;"/>
 
 
