@@ -33,7 +33,5 @@ Replace these if your o-rings haven't been used in a year or more, or if they ha
 
 Here's a figure from the useful [Parker O-ring Handbook](https://www.parker.com/content/dam/Parker-com/Literature/O-Ring-Division-Literature/ORD-5700.pdf) which shows how properly used O-rings fail in cross section. 
 
-<img src="https://github.com/evan-lahr/photos/blob/main/oring.png?raw=true" style="height: 400px; width:400px;"/>
-
 
 
